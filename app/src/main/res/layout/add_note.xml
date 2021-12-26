@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:inputType="text"
         android:layout_height="wrap_content"
-        android:layout_margin="40dp"
+        android:layout_margin="41dp"
         android:hint="@string/app_name"
         android:minHeight="48dp" />
 
